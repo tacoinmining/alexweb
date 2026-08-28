@@ -1,6 +1,6 @@
 export const PORTFOLIO_DATA = {
   personal: {
-    name: "Nguyễn Anh Tuấn",
+    name: "Nguyen Anh Tuan",
     role: "Senior Frontend & Creative Developer",
     headline: "Nhà phát triển Frontend đam mê vũ trụ và công nghệ",
     subheadline:
